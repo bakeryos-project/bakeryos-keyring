@@ -1,7 +1,7 @@
 # Maintainer: smtdfc <me.smdtfc@gmail.com>
 
 pkgname=bakeryos-keyring
-pkgver=1.0.0
+pkgver=1.0.2
 pkgrel=1
 pkgdesc="BakeryOS keyring"
 url="https://github.com/bakeryos-project/bakeryos-keyring"
