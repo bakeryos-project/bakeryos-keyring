@@ -2,7 +2,7 @@
 
 pkgname=bakeryos-keyring
 pkgver=1.0.2
-pkgrel=1
+pkgrel=2
 pkgdesc="BakeryOS keyring"
 url="https://github.com/bakeryos-project/bakeryos-keyring"
 arch=('any')
